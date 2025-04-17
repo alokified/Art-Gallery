@@ -7,7 +7,7 @@ var canvas = document.getElementById('canvas'),
     
   hue = 217,
   stars = [],
-  count = 0,
+  count = 0, 
   maxStars = 800;
 
 var canvas2 = document.createElement('canvas'),
